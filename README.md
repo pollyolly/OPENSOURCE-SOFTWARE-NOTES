@@ -8,6 +8,8 @@ MediaWiki - wiki
 OpenScholar - multisite site for department, personal, project
 Open Conference System - conference paper submission system
 YOURLS - bitly alike
+OpenDocman - document system
+DKAN - open data system
 ```
 
 ### Other Softwares
