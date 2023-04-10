@@ -12,10 +12,12 @@ OpenDocman - document system
 DKAN - open data system
 KUNENA - Forum
 ```
+### Multimedia
+
+[Lossless](https://github.com/mifi/lossless-cut)
 
 ### Other Softwares
 ```
 Big Blue Button - video conferencing
 Next Cloud - google drive alternative
-
 ```
